@@ -51,3 +51,8 @@ Why
 
 provide a convenient way to store and manipulate lists of data.
 allow us to group related values together,
+
+
+# Day-3
+# Nested data or objects
+Nested data or object is object or array inside objects or array inside it.
