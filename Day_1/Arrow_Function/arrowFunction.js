@@ -10,6 +10,8 @@ greet();
 
 
 
+
+
 // Arrow function return with parameters
 
 const login =(num1 , num2)=> {
@@ -17,6 +19,8 @@ const login =(num1 , num2)=> {
 }
 let total = login(6, 9);
 console.log(total);
+
+
 
 
 
@@ -29,11 +33,14 @@ showWelcome("Khei Chai");
 
 
 
+
+
+
+
 // E.g 2 : with return
 
 const calculateTotal =(price , quantity)=> {
     return price * quantity ;
-
 }
 let TotalPrice = calculateTotal (5, 6);
 console.log(" Total price is : " + TotalPrice);
