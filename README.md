@@ -56,3 +56,7 @@ allow us to group related values together,
 
 Nested data or objects
 Nested data or object is object or array inside objects or array inside it.
+
+# Day-5
+# Callback Function
+A callback function is a function that is passed as an argument to another function and is called (executed) inside that function.
