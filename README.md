@@ -58,5 +58,12 @@ Nested data or objects
 Nested data or object is object or array inside objects or array inside it.
 
 # Day-5
-# Callback Function
+Callback Function
 A callback function is a function that is passed as an argument to another function and is called (executed) inside that function.
+
+# Day-6
+Object Destructuring
+Object destructuring allow us to extract properties ( name , age ,id ) from object and store the values in seperate variables easily.
+
+Array Destructuring
+Array destructuring allow us to extract values from array and store them in seperate variable easily.
